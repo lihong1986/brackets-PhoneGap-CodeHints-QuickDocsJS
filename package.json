@@ -1,0 +1,9 @@
+{
+    "name": "brackets-PhoneGap-CodeHints-QuickDocsJS",
+    "title": "brackets-PhoneGap-CodeHints-QuickDocsJS",
+    "author": "lihong",
+    "homepage": "https://github.com/lihong1986/brackets-PhoneGap-CodeHints-QuickDocsJS",
+    "version": "1.1.1",
+    "engines": { "brackets": ">=0.23" },
+    "description": "CodeHints for PhoneGap functions,Inline short documentation for PhoneGap functions, including a summary,syntax and parameters."
+}
